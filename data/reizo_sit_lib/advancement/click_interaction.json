@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "Interaction_Click": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player":{
+          "type":"minecraft:player"
+        },
+        "entity": {
+          "type":"minecraft:interaction",
+          "nbt":"{Tags:[\"reizo_sit_lib\"]}"
+        }
+      }
+    }
+  },
+  "requirements": [
+        ["Interaction_Click"]
+  ],
+  "rewards": {
+    "function": "reizo_sit_lib:sit"
+  }
+}
