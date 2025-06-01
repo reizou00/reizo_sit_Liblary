@@ -20,6 +20,12 @@
 ```mcfunction
 /function #reizo_sit_lib:setting
 ```
-このようにパーティクルが出現します。
+・このようにパーティクルが出現します。
+![Image](https://github.com/user-attachments/assets/5c5963c4-652d-4792-8780-84ab1b09ad94)
 
-[ここに画像を...]
+### 使用シェーダー:MakeUp - Ultra Fast
+
+### DLリンク:
+<a href="https://modrinth.com/shader/makeup-ultra-fast-shaders/versions">
+    <img width="50" src="https://cdn.modrinth.com/data/izsIPI7a/a08432baa86b8ffd58c08f4b3a001ef976ff764d_96.webp">
+</a>
