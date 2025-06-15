@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "Enter_the_world": {
+      "trigger": "minecraft:location"
+    }
+  },
+  "requirements": [
+    ["Enter_the_world"]
+  ],
+  "rewards": {
+    "function": "reizo_sit_lib:init"
+  }
+}
