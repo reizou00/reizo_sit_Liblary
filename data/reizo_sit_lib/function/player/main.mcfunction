@@ -8,4 +8,4 @@ tag @e[tag=reizo_sit_lib,type=interaction,distance=8..] remove reizo_sit_lib.sta
 # 座っているときは消しておきたい。
 execute \
 if predicate reizo_sit_lib:ride_interaction run \
-tag @e[tag=reizo_sit_lib.staging,sort=nearest] remove reizo_sit_lib.staging
+tag @n[tag=reizo_sit_lib.staging] remove reizo_sit_lib.staging
