@@ -29,3 +29,11 @@
 <a href="https://modrinth.com/shader/makeup-ultra-fast-shaders/versions">
     <img width="50" src="https://cdn.modrinth.com/data/izsIPI7a/a08432baa86b8ffd58c08f4b3a001ef976ff764d_96.webp">
 </a>
+
+## License
+
+This project is released under the CC0 1.0 Universal license.
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+「要するにこれは著作権なしだよ～」ってこと
